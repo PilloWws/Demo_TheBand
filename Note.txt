@@ -1,0 +1,19 @@
+Những thành phần có trên giao diện website
+    1. Header
+    2. Navigation(Điều hướng)
+    3. Breadcrumb
+    4. Sidebar
+    5. Slider
+    6. Content
+    7. Footer
+
+
+Trong Theband cần xây dựng
+    1. Header
+    2. Slider
+    3. Content  
+        1. About
+        2. Tour
+        3. Contact
+        4. Img  
+    4. Footer
